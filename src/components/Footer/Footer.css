@@ -1,0 +1,29 @@
+.footer {
+    background-color: #212121;
+    color: #F5F5F5;    
+    width: 100%;
+    position: fixed;    
+    bottom: 0;
+    font-size: 25px;
+  }
+
+  .logo {
+    height: 40px;
+    margin-top: -3px;
+    margin-right: 32px;
+  }
+
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 32x;
+    margin-right: 32px;
+  }
+
+  .social-group {
+    display: flex;
+  }
+  
+  .social-icon {
+    margin-right: 8px;
+  }
