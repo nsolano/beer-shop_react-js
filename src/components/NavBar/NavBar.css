@@ -1,0 +1,48 @@
+.appBar {
+    z-index: 1201;
+    background-color: #212121;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 32px;
+    margin-right: 32px;
+  }
+
+  .logo {
+    height: 40px;
+    margin-top: -3px;
+    margin-right: 16px;
+  } 
+    
+  .button-group {
+    display: flex;
+    align-items: left;
+  }
+
+  .button {
+    color:  #F5F5F5;
+    margin-left: 16px;
+  }
+  
+  .button:hover {
+    background-color: #e76012ee;
+  }
+
+  .cart-button {
+  margin-left: auto;
+}
+
+ .avatar {
+    margin-left: 16px;
+  }
+  
+
+
+ 
+  
+  
+  
+  
+  

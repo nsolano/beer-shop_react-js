@@ -1,13 +1,11 @@
 import "./App.css";
-import Button from "@mui/material/Button";
+import Navbar from "./components/NavBar/NavBar";
+
 
 const App = () => {
 return (
   <div className="App">
-    <h1>Hola mundo!!</h1>
-    <Button color="primary" variant="contained">
-        Click Me
-    </Button>
+    <Navbar />
   </div>
 );
 };
